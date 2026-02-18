@@ -1,5 +1,9 @@
 # Electrical Sales Data Analysis Project
 
+## Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard.png)
+
 ## Project Overview
 
 This project shows a complete data analysis workflow using Python, SQL, and Power BI.
