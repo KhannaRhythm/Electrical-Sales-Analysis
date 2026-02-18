@@ -1,0 +1,8 @@
+product_name,current_stock,reorder_level,avg_daily_sales,recommended_reorder_qty
+LED Bulb 9W,37,57,10.444444444444445,36
+LED Bulb 12W,58,44,8.363636363636363,1
+Tube Light 20W,132,39,12.083333333333334,0
+Switch Board,32,37,12.5,56
+Ceiling Fan,45,31,8.833333333333334,17
+Wire 1.5 sq mm,56,51,8.5,4
+Extension Board,82,35,7.2,0

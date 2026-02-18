@@ -1,0 +1,61 @@
+sale_id,date,product_name,category,quantity,selling_price,total_sales,purchase_price,supplier,profit
+1,2024-10-01,Wire 1.5 sq mm,Wires,7,95,665,61.21,Surya Electricals,236.53
+2,2024-10-02,Tube Light 20W,Tube Lights,16,350,5600,239.38,Anchor Supply Co.,1769.92
+3,2024-10-03,Extension Board,Accessories,8,450,3600,272.49,Havells Supplier,1420.08
+4,2024-10-04,LED Bulb 12W,LED Lights,2,160,320,107.98,Anchor Supply Co.,104.03999999999999
+5,2024-10-05,Extension Board,Accessories,13,450,5850,272.49,Havells Supplier,2307.63
+6,2024-10-06,LED Bulb 9W,LED Lights,3,120,360,79.46,Local Electrical Wholesale,121.62000000000002
+7,2024-10-07,LED Bulb 9W,LED Lights,8,120,960,79.46,Local Electrical Wholesale,324.32000000000005
+8,2024-10-08,Switch Board,Switches,9,220,1980,162.15,Surya Electricals,520.65
+9,2024-10-09,Tube Light 20W,Tube Lights,16,350,5600,239.38,Anchor Supply Co.,1769.92
+10,2024-10-10,Extension Board,Accessories,6,450,2700,272.49,Havells Supplier,1065.06
+11,2024-10-11,LED Bulb 12W,LED Lights,6,160,960,107.98,Anchor Supply Co.,312.12
+12,2024-10-12,LED Bulb 12W,LED Lights,3,160,480,107.98,Anchor Supply Co.,156.06
+13,2024-10-13,Extension Board,Accessories,3,450,1350,272.49,Havells Supplier,532.53
+14,2024-10-14,Ceiling Fan,Fans,9,2200,19800,1665.1,Havells Supplier,4814.1
+15,2024-10-15,Wire 1.5 sq mm,Wires,4,95,380,61.21,Surya Electricals,135.16
+16,2024-10-16,LED Bulb 12W,LED Lights,13,160,2080,107.98,Anchor Supply Co.,676.26
+17,2024-10-17,Tube Light 20W,Tube Lights,17,350,5950,239.38,Anchor Supply Co.,1880.54
+18,2024-10-18,Tube Light 20W,Tube Lights,10,350,3500,239.38,Anchor Supply Co.,1106.2
+19,2024-10-19,Switch Board,Switches,7,220,1540,162.15,Surya Electricals,404.94999999999993
+20,2024-10-20,LED Bulb 9W,LED Lights,13,120,1560,79.46,Local Electrical Wholesale,527.0200000000001
+21,2024-10-21,Wire 1.5 sq mm,Wires,5,95,475,61.21,Surya Electricals,168.95
+22,2024-10-22,Extension Board,Accessories,8,450,3600,272.49,Havells Supplier,1420.08
+23,2024-10-23,LED Bulb 12W,LED Lights,9,160,1440,107.98,Anchor Supply Co.,468.17999999999995
+24,2024-10-24,Tube Light 20W,Tube Lights,8,350,2800,239.38,Anchor Supply Co.,884.96
+25,2024-10-25,Ceiling Fan,Fans,8,2200,17600,1665.1,Havells Supplier,4279.200000000001
+26,2024-10-26,LED Bulb 9W,LED Lights,16,120,1920,79.46,Local Electrical Wholesale,648.6400000000001
+27,2024-10-27,Ceiling Fan,Fans,14,2200,30800,1665.1,Havells Supplier,7488.600000000001
+28,2024-10-28,Extension Board,Accessories,5,450,2250,272.49,Havells Supplier,887.55
+29,2024-10-29,Wire 1.5 sq mm,Wires,18,95,1710,61.21,Surya Electricals,608.22
+30,2024-10-30,LED Bulb 12W,LED Lights,6,160,960,107.98,Anchor Supply Co.,312.12
+31,2024-10-31,Extension Board,Accessories,4,450,1800,272.49,Havells Supplier,710.04
+32,2024-11-01,Tube Light 20W,Tube Lights,2,350,700,239.38,Anchor Supply Co.,221.24
+33,2024-11-02,LED Bulb 9W,LED Lights,13,120,1560,79.46,Local Electrical Wholesale,527.0200000000001
+34,2024-11-03,LED Bulb 12W,LED Lights,8,160,1280,107.98,Anchor Supply Co.,416.15999999999997
+35,2024-11-04,LED Bulb 9W,LED Lights,15,120,1800,79.46,Local Electrical Wholesale,608.1000000000001
+36,2024-11-05,LED Bulb 9W,LED Lights,4,120,480,79.46,Local Electrical Wholesale,162.16000000000003
+37,2024-11-06,LED Bulb 12W,LED Lights,7,160,1120,107.98,Anchor Supply Co.,364.14
+38,2024-11-07,LED Bulb 12W,LED Lights,16,160,2560,107.98,Anchor Supply Co.,832.3199999999999
+39,2024-11-08,LED Bulb 9W,LED Lights,15,120,1800,79.46,Local Electrical Wholesale,608.1000000000001
+40,2024-11-09,Extension Board,Accessories,4,450,1800,272.49,Havells Supplier,710.04
+41,2024-11-10,Tube Light 20W,Tube Lights,11,350,3850,239.38,Anchor Supply Co.,1216.8200000000002
+42,2024-11-11,Switch Board,Switches,17,220,3740,162.15,Surya Electricals,983.4499999999999
+43,2024-11-12,Ceiling Fan,Fans,8,2200,17600,1665.1,Havells Supplier,4279.200000000001
+44,2024-11-13,Tube Light 20W,Tube Lights,18,350,6300,239.38,Anchor Supply Co.,1991.16
+45,2024-11-14,Ceiling Fan,Fans,11,2200,24200,1665.1,Havells Supplier,5883.9000000000015
+46,2024-11-15,LED Bulb 9W,LED Lights,7,120,840,79.46,Local Electrical Wholesale,283.78000000000003
+47,2024-11-16,Tube Light 20W,Tube Lights,18,350,6300,239.38,Anchor Supply Co.,1991.16
+48,2024-11-17,Ceiling Fan,Fans,3,2200,6600,1665.1,Havells Supplier,1604.7000000000003
+49,2024-11-18,LED Bulb 12W,LED Lights,17,160,2720,107.98,Anchor Supply Co.,884.3399999999999
+50,2024-11-19,Switch Board,Switches,17,220,3740,162.15,Surya Electricals,983.4499999999999
+51,2024-11-20,Extension Board,Accessories,7,450,3150,272.49,Havells Supplier,1242.57
+52,2024-11-21,Wire 1.5 sq mm,Wires,3,95,285,61.21,Surya Electricals,101.37
+53,2024-11-22,Wire 1.5 sq mm,Wires,17,95,1615,61.21,Surya Electricals,574.43
+54,2024-11-23,Wire 1.5 sq mm,Wires,2,95,190,61.21,Surya Electricals,67.58
+55,2024-11-24,Extension Board,Accessories,14,450,6300,272.49,Havells Supplier,2485.14
+56,2024-11-25,Tube Light 20W,Tube Lights,4,350,1400,239.38,Anchor Supply Co.,442.48
+57,2024-11-26,Wire 1.5 sq mm,Wires,12,95,1140,61.21,Surya Electricals,405.48
+58,2024-11-27,Tube Light 20W,Tube Lights,10,350,3500,239.38,Anchor Supply Co.,1106.2
+59,2024-11-28,Tube Light 20W,Tube Lights,15,350,5250,239.38,Anchor Supply Co.,1659.3000000000002
+60,2024-11-29,LED Bulb 12W,LED Lights,5,160,800,107.98,Anchor Supply Co.,260.09999999999997
