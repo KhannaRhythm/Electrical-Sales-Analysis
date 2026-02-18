@@ -60,7 +60,7 @@ Created an interactive dashboard including:
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshot/dashborad.PNG)
 
 ## Key Insights
 
