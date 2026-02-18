@@ -1,9 +1,5 @@
 # Electrical Sales Data Analysis Project
 
-## Dashboard Preview
-
-![Dashboard Preview](screenshots/dashboard.png)
-
 ## Project Overview
 
 This project shows a complete data analysis workflow using Python, SQL, and Power BI.
@@ -62,14 +58,9 @@ Created an interactive dashboard including:
 - Category, Supplier, and Month slicers  
 
 ---
-
 ## Dashboard Preview
 
-(Add your screenshot below)
-
 ![Dashboard Preview](screenshots/dashboard.png)
-
----
 
 ## Key Insights
 
